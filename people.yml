@@ -1,0 +1,13 @@
+---
+- id: '1'
+  name: Me
+  email: noreply@joustie.nl
+  attending: 
+  partner: 
+  guid: 
+- id: '2'
+  name: Someone
+  email: noreply@example.com
+  attending: 
+  partner: 
+  guid: 
